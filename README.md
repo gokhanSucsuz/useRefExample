@@ -1,8 +1,4 @@
-# React + Vite
+# React useRef Hook Example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This example shows usage of hook. The page doesn't render with usage useRef hook. 
+It also explains how to take elements (like an input etc.) on the page. 
